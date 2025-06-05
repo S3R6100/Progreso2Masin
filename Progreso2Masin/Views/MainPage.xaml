@@ -11,7 +11,11 @@
                FontAttributes="Bold"
                FontSize="Large"
                HorizontalOptions="Center" />
-        
+
+        <Image Source="sharko.jpg"
+               WidthRequest="150"
+               HeightRequest="150"
+               HorizontalOptions="Center" />
         <Button x:Name="IrAChistes"
                 Text="Ir a Chiste"
                 WidthRequest="200"
